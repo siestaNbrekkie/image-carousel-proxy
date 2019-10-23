@@ -1,0 +1,25 @@
+{
+  "name": "image-carousel-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siestaNbrekkie/image-carousel-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siestaNbrekkie/image-carousel-proxy/issues"
+  },
+  "homepage": "https://github.com/siestaNbrekkie/image-carousel-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "path": "^0.12.7"
+  }
+}
